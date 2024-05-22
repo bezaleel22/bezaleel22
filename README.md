@@ -4,9 +4,9 @@
        alt="snake" />
   </div>
   <div align="center" id="badges">
-    <h3 align="center">📫 How to Reach me.</h3>
-    <a href="mailto:alek.onosbrown.saved@gmail.com">
-      <img src="https://img.shields.io/badge/-alek.sandr2020%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <h3 align="center">📫 How to Reach Me</h3>
+    <a href="mailto:onosbrown.saved@gmail.com">
+      <img src="[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mailto:onosbrown.saved@gmail.com)" alt="Gmail Badge"/>
     </a>
     <a href="https://t.me/bezalel22">
       <img src="https://img.shields.io/badge/-AlekGurov-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
