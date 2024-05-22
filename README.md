@@ -37,7 +37,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-AlekGurov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AlekGurov)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/bezalel22)
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -62,15 +62,15 @@
 
 
 ### :fire: My Stats :
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamhi&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shamhi&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamhi&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onos9&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=onos9&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=onos9&theme=dark)
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [shamhi](https://github.com/shamhi)
+Credit: [shamhi](https://github.com/onos9)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
