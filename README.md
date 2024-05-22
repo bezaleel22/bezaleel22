@@ -42,11 +42,11 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://skillicons.dev/icons?i=go" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=go,python" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker " width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=css3"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=html5" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=css"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
