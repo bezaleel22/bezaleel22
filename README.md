@@ -42,7 +42,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://skillicons.dev/icons?i=go,python" title="Golang" alt="Golang"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=go,python,docker,css,html,javascript,fastapi,laravel,postgres,nodejs,git,nginx,redis,tailwind" title="Golang" alt="Golang"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker " width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=css"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
