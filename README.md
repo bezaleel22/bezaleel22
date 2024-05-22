@@ -5,17 +5,17 @@
   </div>
   <div align="center" id="badges">
     <h3 align="center">📫 How to Reach me.</h3>
-    <a href="mailto:alek.sandr2020@mail.ru">
+    <a href="mailto:alek.onosbrown.saved@gmail.com">
       <img src="https://img.shields.io/badge/-alek.sandr2020%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="https://t.me/AlekGurov">
+    <a href="https://t.me/bezalel22">
       <img src="https://img.shields.io/badge/-AlekGurov-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <a href="https://kwork.ru/user/shamhi">
-      <img src="https://img.shields.io/badge/-aleksandrgurov-yellow?style=for-the-badge&logo=kwork&logoColor=white" alt="Kwork Badge"/>
+    <a href="https://x.com/beznetorg">
+      <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" alt="X Badge"/>
     </a>
-     <a href="https://freelance.habr.com/freelancers/ShamHi">
-      <img src="https://img.shields.io/badge/-aleksandrgurov-brightgreen?style=for-the-badge&logo=habr&logoColor=white" alt="Habar Badge"/>
+     <a href="https://discord.com/channels/@bnos9">
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@bnos9" alt="Dicord Badge"/>
     </a>
   </div>  
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=shamhi&label=Profile%20Visits&style=for-the-badge" />
