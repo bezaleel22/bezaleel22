@@ -42,22 +42,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://skillicons.dev/icons?i=go,python,docker,css,html,javascript,fastapi,laravel,postgres,nodejs,git,nginx,redis,tailwind" title="Golang" alt="Golang"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker " width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=css"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgreSQL" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-plain.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=go,python,docker.rust,aws.svelte,react,css,html,javascript,fastapi,laravel,postgres,nodejs,git,nginx,redis,tailwind" title="Skills" alt="Skills"/>&nbsp;
 </div>
 
 
