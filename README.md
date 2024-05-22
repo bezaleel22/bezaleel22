@@ -9,16 +9,16 @@
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
     <a href="https://t.me/bezalel22">
-      <img src="https://img.shields.io/badge/-AlekGurov-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
     <a href="https://x.com/beznetorg">
-      <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" alt="X Badge"/>
+      <img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" alt="X Badge"/>
     </a>
      <a href="https://discord.com/channels/@bnos9">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@bnos9" alt="Dicord Badge"/>
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Dicord Badge"/>
     </a>
   </div>  
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=shamhi&label=Profile%20Visits&style=for-the-badge" />
+  <img alt="Visitors" src="https://img.shields.io/badge/Org-Beznet-blue" />
   <h1>
     Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
