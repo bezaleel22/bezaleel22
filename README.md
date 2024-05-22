@@ -11,11 +11,11 @@
     <a href="https://t.me/bezalel22">
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <a href="https://x.com/beznetorg">
-      <img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" alt="X Badge"/>
-    </a>
      <a href="https://discord.com/channels/@bnos9">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Dicord Badge"/>
+    </a>
+    <a href="https://x.com/beznetorg">
+      <img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" alt="X Badge"/>
     </a>
   </div>  
   <img alt="Visitors" src="https://img.shields.io/badge/Org-Beznet-blue" />
