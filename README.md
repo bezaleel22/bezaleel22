@@ -42,7 +42,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://skillicons.dev/icons?i=go,python,docker,rust,aws,svelte,react,qwik,mongodb,vercel,css,html,javascript,fastapi,laravel,postgres,nodejs,git,nginx,redis,tailwind" title="Skills" alt="Skills"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=go,python,docker,rust,aws,svelte,react,vite,mongodb,vercel,css,html,javascript,fastapi,laravel,postgres,nodejs,git,nginx,redis,tailwind" title="Skills" alt="Skills"/>&nbsp;
 </div>
 
 
@@ -55,8 +55,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [shamhi](https://github.com/onos9)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+Credit: [Onojeta Brown](https://github.com/onos9)
