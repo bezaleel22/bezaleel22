@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Brown, a Next.js Developer based in Croatia.
+            Hi! I&apos;m Brown, a Software Developer based in Nigeria.
           </p>
 
           <a href="#about">
