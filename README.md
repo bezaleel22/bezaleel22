@@ -28,23 +28,25 @@
   </div>
 </div>
 
+### :technologist: About Me :
+I am **Onojeta Brown**, a highly motivated **Electrical & Electronics Engineer** and **Full-Stack Developer** from Nigeria. I bring over 6 years of experience in maintaining, designing, and developing electrical systems and software solutions. Here’s a glimpse into what I do:
 
-### :woman_technologist: About Me :
- I am a Fullstak Developer from Nigeria <br>
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :electric_plug: **Hardware Engineer** – Expertise in embedded systems, circuit design, machine automation, and fabrication.
+- :telescope: **Full-Stack Developer** – Skilled in building web applications, contributing to both frontend and backend using modern frameworks and languages.
+- :computer: **Tech Enthusiast** – Passionate about continuous learning and technology innovation.
 
-- :seedling: Exploring Technical Content Writing.
+In my roles, I've had the opportunity to work on **Learning Management Systems**, **Result Generator Apps**, and complex **electrical distribution panels**. I’m driven by a desire to solve problems and build efficient, impactful technology solutions.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :seedling: Currently exploring **Technical Content Writing** and contributing to open-source projects.
+- :zap: In my spare time, I love solving problems on **GeeksforGeeks** and staying updated with the latest trends in **tech**.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/bezalel22)
-
+### :mailbox: How to reach me:
+[![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/bezalel22)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://skillicons.dev/icons?i=go,python,docker,rust,aws,svelte,react,vite,mongodb,css,html,javascript,fastapi,laravel,postgres,nodejs,git,nginx,redis,tailwind" title="Skills" alt="Skills"/>&nbsp;
 </div>
-
 
 ### :fire: My Stats :
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onos9&theme=dark)
