@@ -49,9 +49,9 @@ In my roles, I've had the opportunity to work on **Learning Management Systems**
 </div>
 
 ### :fire: My Stats :
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onos9&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=onos9&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=onos9&theme=dark)
+![bezaleel22's Stats](https://github-readme-stats.vercel.app/api?username=bezaleel22&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![bezaleel22's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bezaleel22&theme=dark&hide_border=true)
+![bezaleel22's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bezaleel22&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
